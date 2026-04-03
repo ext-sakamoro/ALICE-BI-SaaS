@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_BI
+name: alice-bi
 description: ALICE BI
 type: application
 version: 0.1.0
